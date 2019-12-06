@@ -1,12 +1,19 @@
 This is a rocky planet where an abundance of iron oxide gives it a distinctive red hue. 
 
-Adding this line so that there is a conflict in the middle of the document.
-Adding a bit here just to cause a conflict. 
+Adding this sentence so that there is a conflict in the middle of the document. Adding a little here and
+changing the word line to the word sentence.
 
 The multiple moons may cause issues for wolfman. 
 The lack of humidity is good for the mummy. 
 It seems as though mars is not a universally accepted location, and so we will consider other
 planets.
 
+The "Collaborator" is now adding something which will come as a conflict. 
+
 The differences are now resolved by J
 
+The attempted conflict, where people added text to different parts of the document, was auto resolved. 
+I don't know how edits including deletions to different areas would be resolved. 
+
+When there are conflicts, it auto merges where it can and when you edit it shows where the
+versions are different.
