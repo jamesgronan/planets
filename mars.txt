@@ -3,3 +3,6 @@ The multiple moons may cause issues for wolfman.
 The lack of humidity is good for the mummy. 
 It seems as though mars is not a universally accepted location, and so we will consider other
 planets. 
+
+I added this as a collaborator. I wasn't working on a freshly pulled version. Shame
+
